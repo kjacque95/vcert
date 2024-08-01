@@ -196,7 +196,7 @@ The top-level structure of the file is described as follows:
 | zone        | string                                       | ***Required*** | - Specifies the Policy Folder (for TPP) or the Application and Issuing Template to use (for VaaS). For TPP, exclude the "\VED\Policy" portion of the folder path. **NOTE:** if the zone is not contained within `"`, the backslash `\` must be properly escaped (i.e. `Certificates\\vCert`).                                                                                                                                                                                                                                   |
 
 ### CustomField
-> Custom Fields are only supported by _TLS Protect Datacenter (TLSPC)_ platform
+> Custom Fields are only supported by _TLS Protect Datacenter (TLSPDC)_ platform
 
 | Field | Type   | Required       | Description                                                                                                     |
 |-------|--------|----------------|-----------------------------------------------------------------------------------------------------------------|
